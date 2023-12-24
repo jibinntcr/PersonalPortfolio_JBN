@@ -1,0 +1,18 @@
+{
+    "education":[
+        {
+            "title": "2012-2014",
+            "cardTitle": "M. Tech, Computer Science and Engineering",
+            "cardSubtitle":"PRIST UNIVERSITY THANJAvUr",
+            "icon" : {
+                "src": "images/education/cse.JPG"
+            }
+        },
+        {
+            "title": "2007-2010",
+            "cardTitle": "Master of Computer Applications",
+            "cardSubtitle":"CAS IHRD Vadakkancherry",
+            "cardDetailedText": "CGPA-9"
+        }
+    ]
+}

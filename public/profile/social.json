@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/jibintcr/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/jibinntcr"
+        },
+        {
+            "network" : "email",
+            "href": "jibin@mesmarampally.org"
+        }
+    ]
+}

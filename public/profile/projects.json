@@ -1,0 +1,104 @@
+{
+    "projects" : [
+        {
+            "title": "JBN ",
+            "bodyText": "- Myself",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr"
+                }
+               
+            ],
+            "tags" : [
+                "React",
+                "HTML",
+                "JavaScript"
+            ]
+        },
+       
+        {
+            "title": "DCA",
+            "bodyText": "- DCA Website.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/DCA_CUSAT"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+            ]
+        },
+        {
+            "title": "ICA DCA",
+            "bodyText": "- International Conference Website CUSAT.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/ICADCA"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room",
+                "Coroutines",
+                "Flow",
+                "Hilt-Dagger",
+                "NetworkBoundResource"
+            ]
+        },
+        {
+            "title": "Kochin Furniture",
+            "bodyText": "- A Plywood Website.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/Kochin_Furniture"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+                
+                
+            ]
+        },
+        {
+            "title": "Amigos Residencey",
+            "bodyText": "- Amigos Website.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/amigos"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "TBI Website ",
+            "bodyText": "- TBI Website CUSAT.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/jibinntcr/TBICusatV2"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+                
+            ]
+        }
+    ]
+}

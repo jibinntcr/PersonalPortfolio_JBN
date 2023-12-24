@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "Asst Professor",
+            "subtitle": "MESM",
+            "workType": "Teaching",
+            "workDescription": [
+                "Department of Computer Applications."
+            ]
+            
+        },
+        {
+            "title": "Software Developer",
+            "subtitle": "Infinio",
+            "workType": "6 Years",
+            "workDescription": [
+                "Software Developer."
+            ]
+            
+        },
+        {
+            "title": "Enabler",
+            "subtitle": "Mulearn",
+            "workType": "MESM",
+            "workDescription": [
+                "Mulearn Enabler MES College Marampally."
+            ]
+           
+        }
+    ]
+}
